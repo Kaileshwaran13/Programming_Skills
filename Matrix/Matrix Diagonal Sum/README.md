@@ -10,7 +10,7 @@ Only include the sum of all the elements on the primary diagonal and all the ele
 
 # Example 1:
 
-![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/826a829f-522d-4e20-9b7d-4642992ed555)
+![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/b1086a7f-6ea0-43d8-abfa-82b40dd91df2)
 
 
 
