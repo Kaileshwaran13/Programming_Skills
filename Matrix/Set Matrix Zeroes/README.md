@@ -8,7 +8,8 @@ Given an m x n integer matrix matrix, if an element is 0, set its entire row and
  
 # Example 1:
 
-![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/c29a0bb7-99fb-4c17-991e-1ccc460f304a)
+![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/bcef9e44-1b51-4022-8e29-b5c37cb04396)
+
 
 
 Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
@@ -17,7 +18,8 @@ Output: [[1,0,1],[0,0,0],[1,0,1]]
 
 # Example 2:
 
-![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/f278f66a-1732-439e-b82f-5f1c19584536)
+![image](https://github.com/Kaileshwaran13/Programming_Skills/assets/128310801/80bd4664-902f-4b32-a49c-09a44aa1aca8)
+
 
 Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 
