@@ -40,7 +40,9 @@ Input: word1 = "ab", word2 = "pqrs"
 Output: "apbqrs"
 
 
-## Explanation: Notice that as word2 is longer, "rs" is appended to the end.
+## Explanation: 
+
+Notice that as word2 is longer, "rs" is appended to the end.
 
 
 word1:  a   b 
